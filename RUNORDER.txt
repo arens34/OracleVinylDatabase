@@ -1,0 +1,7 @@
+1. CreateDatabase
+2. CreateTablesScript
+3. CreateConstraintsScript
+4. CreateViewsScript
+5. CreateSequencesScript
+6. CreateProceduresScript (WIP)
+7. CreateTriggersScript
